@@ -1,4 +1,4 @@
-package be.ucll.stockmarket;
+package be.ucll.observer_stockmarket;
 
 import java.util.ArrayList;
 import java.util.List;

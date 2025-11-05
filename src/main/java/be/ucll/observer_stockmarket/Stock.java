@@ -1,4 +1,4 @@
-package be.ucll.stockmarket;
+package be.ucll.observer_stockmarket;
 
 public interface Stock {
     void addInvestor(Investor investor);

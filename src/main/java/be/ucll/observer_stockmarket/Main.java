@@ -1,4 +1,4 @@
-package be.ucll.stockmarket;
+package be.ucll.observer_stockmarket;
 
 public class Main {
     public static void main(String[] args) {

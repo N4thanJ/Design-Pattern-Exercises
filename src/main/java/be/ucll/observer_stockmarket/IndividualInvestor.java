@@ -1,9 +1,9 @@
-package be.ucll.stockmarket;
+package be.ucll.observer_stockmarket;
 
-public class InstitutionalInvestor implements Investor {
+public class IndividualInvestor implements Investor {
     private String name;
 
-    public InstitutionalInvestor(String name) {
+    public IndividualInvestor(String name) {
         this.name = name;
     }
 
